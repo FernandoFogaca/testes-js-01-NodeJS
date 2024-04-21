@@ -1,5 +1,6 @@
 ## NODE JS 
-# Create functions so that all tests in the code above pass successfully.
+# Create functions.
+- Codes above must successfully.
 
   -  Objects
   -  Conditionals
