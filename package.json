@@ -1,0 +1,11 @@
+{
+  "name": "testes-js-01-nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "operacao.test.js",
+  "scripts": {
+    "test": "\"jest\""
+  },
+  "author": "",
+  "license": "ISC"
+}
